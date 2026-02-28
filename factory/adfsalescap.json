@@ -1,0 +1,9 @@
+{
+	"name": "adfsalescap",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0bf7b666-a78b-4d14-9bd1-78374bd734b5",
+		"tenantId": "1b594619-d550-4a3c-b384-d9adabfd6f14"
+	}
+}
